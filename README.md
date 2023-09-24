@@ -1,2 +1,1 @@
-# BookshelfApp
-BookshelfApp - Jetpack Compose
+# MyBookShelfApp
